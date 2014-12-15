@@ -5,9 +5,7 @@
 
 ###Week 1
 > Project Summary:
-Introducing a turnkey ecommerce template web application compatible with open-cart that can be tailored to company specifics. 
-
-####Such as 
+Introducing a turnkey ecommerce template web application compatible with open-cart that can be tailored to company specifics. Such as 
 * Imagery
 * Color scheme
 * Branding logos. 
