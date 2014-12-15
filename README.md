@@ -1,8 +1,8 @@
 eFashion's Design & Development Status
 
-# Deployment Plan
+# eFashion
 
-## Create, Update &amp; Test Features locally
+## Ecommerce solutions for your fashion business.
 
 ###Create Feature Branch
 > 1. $ git checkout -b "featureBranch"
