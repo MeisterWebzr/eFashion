@@ -10,8 +10,7 @@
 
 
 #### Week 2  APPROVED (Dec 1 – Dec 7)
-> Site Planning & Structure 
-*[Site Maps & Low Fidelity Wireframes](DOCS/eFashion_sitemap_wireframe_v2.pdf) 
+>[Site Maps & Low Fidelity Wireframes](DOCS/eFashion_sitemap_wireframe_v2.pdf) 
 
 
 
