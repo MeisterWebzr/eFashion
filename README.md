@@ -11,15 +11,18 @@
 
 #### Week 2  APPROVED (Dec 1 – Dec 7)
 > Site Planning & Structure 
-*Site maps & low fidelity wireframes
-[Site Planning & Structure](DOCS/eFashion_sitemap_wireframe_v2.pdf) 
+[Site Maps & Low Fidelity Wireframes](DOCS/eFashion_sitemap_wireframe_v2.pdf) 
 
 
 
 ##### Week 3 APPROVED (Dec 8 – Dec 11)
 > User Interface & User Experience
-* High-fidelity Design Comps
-* Improved sitemap communications
+* [Home](Design Comps/homePage.jpg)
+* [Registration](Design Comps/registrationPage.jpg)
+* [Wholesale](Design Comps/wholesalePage.jpg)
+* [Product](Design Comps/productPage.jpg)
+* [Admin Login](Design Comps/adminLogin.jpg)
+* [Admin Interface](Design Comps/adminPage.jpg)
 
 
 ##### Week 4 IN PROGRESS (Dec 12 – Dec 18)
