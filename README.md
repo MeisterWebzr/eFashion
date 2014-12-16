@@ -18,10 +18,12 @@ Introducing a turnkey ecommerce template web application compatible with open-ca
 > Site Planning & Structure
 *Site maps, low fidelity wireframes
 
+
 ##### Week 3 APPROVED
 > User Interface & User Experience
 * High-fidelity Design Comps
 * Improved sitemap communications
+
 
 ##### Week 4 IN PROGRESS
 >Server side languages
@@ -30,9 +32,15 @@ Introducing a turnkey ecommerce template web application compatible with open-ca
 * Protosite Design
 
 ##### Week 5
+>Database Enhancements
 
 ##### Week 6
+>API Authentications
 
 ##### Week 7
+>Checkout Testing
+
+>Features Testing
 
 ##### Week 8
+>Promote to Live Server -GOING LIVE!-
