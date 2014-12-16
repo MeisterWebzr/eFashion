@@ -1,10 +1,10 @@
 #eFashion
 
-##### Introducing a turnkey ecommerce template web application compatible with open-cart that can be tailored to company specifics. Such as 
+##### Introducing a turnkey ecommerce template web application compatible with open-cart tailored to the Fashion industries specific needs. 
 
 ####Week 1 APPROVED
 > Project Discovery & Research
-*Communication Brief
+> Communication Brief
 
 > Kick-off video
 
