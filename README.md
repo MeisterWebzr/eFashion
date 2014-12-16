@@ -7,6 +7,7 @@
 * [eFashion_1.0.2.pdf](DOCS/eFashion_1.0.2.pdf)
 
 > Kick-off video
+* [Video link](http://goanimate.com/videos/09zc39dRMwvg?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent)
 
 
 
