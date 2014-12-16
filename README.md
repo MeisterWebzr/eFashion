@@ -4,7 +4,7 @@
 
 ####Week 1 APPROVED (Nov 24 – Nov 30)
 > Communication Brief
-* [file.pdf](Documentation/eFashion_1.0.2.pdf)
+* [eFashion_1.0.2.pdf](Documentation/eFashion_1.0.2.pdf)
 
 > Kick-off video
 
