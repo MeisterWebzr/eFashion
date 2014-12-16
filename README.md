@@ -3,7 +3,6 @@
 ##### Introducing a turnkey ecommerce template web application compatible with open-cart tailored to the Fashion industries specific needs. 
 
 ####Week 1 APPROVED
-> Project Discovery & Research
 > Communication Brief
 
 > Kick-off video
