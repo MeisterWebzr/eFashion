@@ -2,14 +2,14 @@
 
 ##### Introducing a turnkey ecommerce template web application compatible with open-cart tailored to the Fashion industries specific needs. 
 
-####Week 1 APPROVED
+####Week 1 APPROVED >(Nov 24 – Nov 30)
 > Communication Brief
 
 > Kick-off video
 
 
 
-#### Week 2  APPROVED
+#### Week 2  APPROVED >-(Dec 1 – Dec 7)
 > Site Planning & Structure
 *Site maps, low fidelity wireframes
 
