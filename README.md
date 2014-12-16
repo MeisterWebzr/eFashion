@@ -4,10 +4,9 @@
 
 ####Week 1 APPROVED (Nov 24 – Nov 30)
 > Communication Brief
-* [eFashion_1.0.2.pdf](DOCS/eFashion_1.0.2.pdf)
+* [Communication Brief/ Proposal](DOCS/eFashion_1.0.2.pdf)
 
-> Kick-off video
-* [Video link](http://goanimate.com/videos/09zc39dRMwvg?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent)
+>  [Kick-off Video](http://goanimate.com/videos/09zc39dRMwvg?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent)
 
 
 
