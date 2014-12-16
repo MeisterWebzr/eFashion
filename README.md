@@ -3,12 +3,11 @@
 ##### Introducing a turnkey ecommerce template web application compatible with open-cart that can be tailored to company specifics. Such as 
 
 ####Week 1 APPROVED
-> Project Summary:
-I
-* Branding
-* Inventory Management
-* Wholesale & Retail Pricing
-* Simple Adminstrative access
+> Project Discovery & Research
+*Communication Brief
+
+> Kick-off video
+
 
 
 #### Week 2  APPROVED
