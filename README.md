@@ -10,8 +10,7 @@
 
 
 #### Week 2  APPROVED (Dec 1 – Dec 7)
-> Site Planning & Structure 
-[Site Maps & Low Fidelity Wireframes](DOCS/eFashion_sitemap_wireframe_v2.pdf) 
+>[Site Maps & Low Fidelity Wireframes](DOCS/eFashion_sitemap_wireframe_v2.pdf) 
 
 
 
@@ -26,10 +25,10 @@
 
 
 ##### Week 4 IN PROGRESS (Dec 12 – Dec 18)
->Server side languages
-* Server spin-up of staging & live deployment enviornments
-* Github repository setup & configure
-* Protosite Design
+>Server Setup & Protosite
+* [Github Repo Staging](https://github.com/MeisterWebzr/eFashion)
+* [Github Repo Live Server](https://github.com/MeisterWebzr/eFashion/tree/gh-pages)
+* [Protosite](http://marvl.in/30h6e0)
 
 ##### Week 5
 >Database Enhancements
