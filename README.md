@@ -3,10 +3,9 @@
 ##### Introducing a turnkey ecommerce template web application compatible with open-cart tailored to the Fashion industries specific needs. 
 
 ####Week 1 APPROVED (Nov 24 – Nov 30)
-> Communication Brief
-* [Communication Brief/ Proposal](DOCS/eFashion_1.0.2.pdf)
+>[Communication Brief/ Proposal](DOCS/eFashion_1.0.2.pdf)
 
->  [Kick-off Video](http://goanimate.com/videos/09zc39dRMwvg?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent)
+>[Kick-off Video](http://goanimate.com/videos/09zc39dRMwvg?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent)
 
 
 
