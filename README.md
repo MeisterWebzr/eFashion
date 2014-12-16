@@ -1,11 +1,10 @@
 #eFashion
 
-###Ecommerce solutions for your fashion business.
-
+##### Introducing a turnkey ecommerce template web application compatible with open-cart that can be tailored to company specifics. Such as 
 
 ####Week 1 APPROVED
 > Project Summary:
-Introducing a turnkey ecommerce template web application compatible with open-cart that can be tailored to company specifics. Such as 
+I
 * Branding
 * Inventory Management
 * Wholesale & Retail Pricing
