@@ -39,7 +39,7 @@
       </div>
     </div>
     <hr>
-    <p><?php echo $powered; ?></p> 
+    <p><?php echo ; ?></p> 
   </div>
 </footer>
 
@@ -48,6 +48,6 @@ OpenCart is open source software and you are free to remove the powered by OpenC
 Please donate via PayPal to donate@opencart.com
 //--> 
 
-<!-- Theme created by Welford Media for OpenCart 2.0 www.welfordmedia.co.uk -->
+<!-- eFashion created by Meister  for OpenCart 2.0 www.socalfreelancer.net -->
 
 </body></html>
