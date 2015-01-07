@@ -33,7 +33,11 @@
 
 ##### Week 5 In progress (Jan 3- 8 2k15)
 >Database Enhancements
->Template Configuration/ Testing
+ * LAMP
+
+>Template 
+ * Configuration
+ * Testing
 
 ##### Week 6
 >API Authentications
