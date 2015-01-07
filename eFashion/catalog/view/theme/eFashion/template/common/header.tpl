@@ -79,17 +79,33 @@
           <?php } ?>
         </div>
       </div>
-      <div class="col-sm-5"><?php echo $search; ?>
+      <div class="panel panel-default">
+        <div class="panel-body">
+            <ul class="list-inline">
+                 <li><a href="<?php echo $home; ?>"><?php echo "Home"; ?></a></li>
+                 <li><a href="<?php echo $register; ?>"><?php echo "Register"; ?></a></li>
+                 <li><a href="<?php echo $catagories; ?>"><?php echo "Wholesale"; ?></a></li>
+                 <li><?php echo $search; ?></li>
+            </ul>
+        </div>
       </div>
-      <div class="col-sm-3"><?php echo $cart; ?></div>
+      
+               
+           
+  
+      <!-- Remove comments to enable cart button -->
+      <!--<div class="col-sm-3"><?php echo $cart; ?></div>-->
     </div>
   </div>
 </header>
 <?php if ($categories) { ?>
 <div class="container">
   <nav id="menu" class="navbar">
-    <div class="navbar-header"><span id="category" class="visible-xs"><?php echo $text_category; ?></span>
-      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
+    <div class="navbar-header">
+      <span id="category" class="visible-xs"><?php echo $text_category; ?></span>
+      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <i class="fa fa-bars"></i>
+      </button>
     </div>
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav">
