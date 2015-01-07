@@ -24,15 +24,16 @@
 * [Admin Interface](Design Comps/adminPage.jpg)
 
 
-##### Week 4 IN PROGRESS (Dec 12 – Dec 18)
+##### Week 4 APPROVED (Dec 12 – Dec 18)
 >Server Setup & Protosite
 * [Protosite](http://marvl.in/30h6e0)
 * [Github Repo Staging](https://github.com/MeisterWebzr/eFashion)
 * [Github Repo Live Server](https://github.com/MeisterWebzr/eFashion/tree/gh-pages)
 
 
-##### Week 5
+##### Week 5 In progress (Jan 3- 8 2k15)
 >Database Enhancements
+>Template Configuration/ Testing
 
 ##### Week 6
 >API Authentications
