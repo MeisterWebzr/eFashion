@@ -64,12 +64,10 @@ span.hidden-xs, span.hidden-sm, span.hidden-md, span.hidden-lg {
 	min-height: 100%;
 	width: 100%;
 	position: relative;
-	background: #333;
 }
 .container-fluid {
 	padding-left: 20px;
 	padding-right: 20px;
-	background: #333;
 }
 #header {
 	min-height: 0px;
@@ -171,12 +169,6 @@ span.hidden-xs, span.hidden-sm, span.hidden-md, span.hidden-lg {
 }
 #column-left + #content + #footer {
 	margin-left: 50px;
-	
-}
-#footer {
-	
-	position: relative;
-	top: 45px;
 }
 /* Mobile */
 @media (max-width: 767px) {
@@ -497,8 +489,6 @@ input[type="checkbox"]:checked::after, .checkbox input[type="checkbox"]:checked:
 
 /* Panels */
 .panel {
-	position: relative;
-	top: 65px;
 	border-radius: 0px;
 }
 .panel .panel-heading {
