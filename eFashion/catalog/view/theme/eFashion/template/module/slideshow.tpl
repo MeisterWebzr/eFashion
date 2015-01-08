@@ -13,6 +13,6 @@
 $('#slideshow<?php echo $module; ?>').flexslider({
 	animation: 'slide',
 	animationLoop: true,
-	itemWidth: <?php echo $width; ?>
+	itemWidth: 990px,
 });
 --></script>
