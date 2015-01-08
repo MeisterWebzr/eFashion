@@ -79,14 +79,15 @@
           <?php } ?>
         </div>
       </div>
-      <div class="panel panel-default">
-        <div class="panel-body">
-            <ul class="list-inline">
+      <div class="">
+        <div class="main-menu nav-pills">
+            <ul class="list-inline pull-left">
                  <li><a href="<?php echo $home; ?>"><?php echo "Home"; ?></a></li>
                  <li><a href="<?php echo $register; ?>"><?php echo "Register"; ?></a></li>
                  <li><a href="<?php echo $catagories; ?>"><?php echo "Wholesale"; ?></a></li>
-                 <li><?php echo $search; ?></li>
             </ul>
+            <div class="col-sm-3"><?php echo $search; ?></div>
+            <div class="col-sm-3"><?php echo $cart; ?></div>
         </div>
       </div>
       

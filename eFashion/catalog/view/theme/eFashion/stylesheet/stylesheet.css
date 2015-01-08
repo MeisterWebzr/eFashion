@@ -117,11 +117,11 @@ div.required .control-label:before {
 	padding-top: 6px;
 }
 #top-links a + a {
-	margin-left: 25px;
+	margin-left: 15px;
 }
 /* logo */
 #logo {
-	margin: 0 0 10px 0;
+	margin: 0 0 20px 0;
 }
 /* search */
 #search {
@@ -138,6 +138,35 @@ div.required .control-label:before {
 	padding: 10px 35px;
 	text-shadow: 0 1px 0 #FFF;
 }
+
+
+/* MAIN MENU*/
+
+
+.main-menu ul{
+
+	position: relative;
+	top: 15px;
+	
+
+}
+
+.main-menu li{
+	color: #000;
+	display: inline-block;
+
+
+}
+
+#main-menu{
+	width: 395px;
+	border: 1px solid black;
+
+}
+
+
+
+
 /* cart */
 #cart {
 	margin-bottom: 10px;
@@ -175,8 +204,6 @@ div.required .control-label:before {
 #cart .dropdown-menu li p {
 	margin: 20px 0;
 }
-
-
 /* menu */
 #menu {
 	background-color: #229ac8;
