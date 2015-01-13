@@ -1,14 +1,17 @@
 <?php
 class ControllerHeader extends Controller {
 	public function index() {
-		$data['title'] = $this->document->getTitle();
-		$data['description'] = $this->document->getDescription();
-		$data['links'] = $this->document->getLinks();
-		$data['styles'] = $this->document->getStyles();
-		$data['scripts'] = $this->document->getScripts();
+		$this->data['title'] = $this->document->getTitle();
+		$this->data['description'] = $this->document->getDescription();
+		$this->data['links'] = $this->document->getLinks();
+		$this->data['styles'] = $this->document->getStyles();
+		$this->data['scripts'] = $this->document->getScripts();		
+		
+		$this->data['base'] = HTTP_SERVER;
+		
+		$this->template = 'header.tpl';
 
-		$data['base'] = HTTP_SERVER;
-
-		return $this->load->view('header.tpl', $data);
+		$this->render();
 	}
 }
+?>
