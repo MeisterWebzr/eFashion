@@ -4,6 +4,8 @@ body {
 	color: #666;
 	font-size: 12px;
 	line-height: 20px;
+	position: relative;
+	top: 75px;
 }
 h1, h2, h3, h4, h5, h6 {
 	color: #444;
@@ -119,6 +121,11 @@ div.required .control-label:before {
 #top-links a + a {
 	margin-left: 15px;
 }
+
+
+
+
+
 /* logo */
 #logo {
 	margin: 0 0 40px 0; 
@@ -175,6 +182,18 @@ div.required .control-label:before {
 #cart .dropdown-menu li p {
 	margin: 20px 0;
 }
+
+/* REGISTRTION PAGE LEFT COLUMN AD OVERRIDE */
+
+#lftad{
+
+	position: relative;
+	left: -10px;
+	margin-top: 15px;
+	padding: 2px;
+
+}
+
 
 
 
@@ -262,7 +281,6 @@ div.required .control-label:before {
 
 
 }
-
 
 
 

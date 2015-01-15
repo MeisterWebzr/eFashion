@@ -1,10 +1,10 @@
 <?php echo $header; ?>
 <div class="container">
-  <ul class="breadcrumb">
+  <ol class="breadcrumb">
     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
     <li><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a></li>
     <?php } ?>
-  </ul>
+  </ol>
   <?php if ($error_warning) { ?>
   <div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> <?php echo $error_warning; ?></div>
   <?php } ?>
@@ -239,7 +239,7 @@
           <?php } ?>
         </fieldset>
         <fieldset id="address">
-          <legend><?php echo $text_your_address; ?></legend>
+          <legend><?php echo "Business Details" ?></legend>
           <div class="form-group">
             <label class="col-sm-2 control-label" for="input-company"><?php echo $entry_company; ?></label>
             <div class="col-sm-10">
@@ -525,8 +525,11 @@
         </div>
         <?php } ?>
       </form>
+
       <?php echo $content_bottom; ?></div>
     <?php echo $column_right; ?></div>
+
+    
 </div> 
 <script type="text/javascript"><!--
 // Sort the custom fields

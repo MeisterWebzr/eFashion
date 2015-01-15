@@ -39,6 +39,14 @@
       <ul class="list-unstyled">
         <li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
       </ul>
+      <!-- LEft ad override!!! -->
+      <div  style="">
+            <a href="index.php?route=account/register" class="thumb" ><img src="image/catalog/left-colum-ad.jpg" alt="register"></a>
+        </div>
+
+      <!-- LEft ad override!!! -->
+
+
       <?php echo $content_bottom; ?></div>
     <?php echo $column_right; ?></div>
 </div>

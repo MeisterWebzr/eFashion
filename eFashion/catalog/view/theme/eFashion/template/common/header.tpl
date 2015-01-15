@@ -41,8 +41,8 @@
 <?php echo $google_analytics; ?>
 </head>
 <body class="<?php echo $class; ?>">
-<nav id="top">
-  <div class="container">
+<nav id="top" class="navbar-fixed-top">
+  <div  id="top-head" class="container">
     <?php echo $currency; ?>
     <?php echo $language; ?>
     <div id="top-links" class="nav pull-right">
@@ -54,7 +54,6 @@
             <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
             <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
             <li><a href="<?php echo $transaction; ?>"><?php echo $text_transaction; ?></a></li>
-            <li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
             <li><a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a></li>
             <?php } else { ?>
             <li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
@@ -82,28 +81,26 @@
       
         </div> </div>
       
-      <div class="col-sm-5">
+      <div class="col-sm-4">
         
         <ul class="nav nav-pills">
             <?php if ($logged) { ?>
             <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
             <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
             <li><a href="<?php echo $transaction; ?>"><?php echo $text_transaction; ?></a></li>
-            <li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
             <li><a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a></li>
-            <div class="col-sm-3"><?php echo $search; ?></div>
             <?php } else { ?>
             <li><a href="<?php echo $home; ?>"><?php echo "Home"; ?></a></li>
             <li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
-            <li><a href="<?php echo $register; ?>"><?php echo "Wholesale" ?></a></li>
-            <li><a href="<?php echo $checkout; ?>"><?php echo $text_checkout; ?></a></li>
+            <li><a href="index.php?route=product/category&path=61"><?php echo "Wholesale" ?></a></li>
+            <li><a href="<?php echo $login; ?>"><?php echo $text_login; ?></a></li>
             <?php } ?>
         </ul>
       
       
       </div>
       
-      <div class="col-sm-3"><?php echo $search; ?></div>
+      <div class="col-sm-4"><?php echo $search; ?></div>
     </div>
   </div>
 </header>
@@ -138,4 +135,5 @@
     </div>
   </nav>
 </div>
+
 <?php } ?>
