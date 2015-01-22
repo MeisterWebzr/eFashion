@@ -40,7 +40,7 @@
         <li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
       </ul>
       <!-- LEft ad override!!! -->
-      <div  style="">
+      <div  style="border: 1px solid red;">
             <a href="index.php?route=account/register" class="thumb" ><img src="image/catalog/left-colum-ad.jpg" alt="register"></a>
         </div>
 

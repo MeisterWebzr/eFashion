@@ -20,19 +20,30 @@
         <?php } elseif ($column_left || $column_right) { ?>
         <?php $class = 'col-sm-6'; ?>
         <?php } else { ?>
-        <?php $class = 'col-sm-8'; ?>
+        <?php $class = 'col-sm-7'; ?>
         <?php } ?>
         <div class="<?php echo $class; ?>">
           <?php if ($thumb || $images) { ?>
-          <ul class="thumbnails">
+          <ul class="thumbnails" >
             <?php if ($thumb) { ?>
-            <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+            <li ><a class="thumbnail"  style="border: hidden;" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img  id="pImage"  src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
             <?php } ?>
             <?php if ($images) { ?>
+            <div class="row">
+              <div class="col-sm-12">
             <?php foreach ($images as $image) { ?>
-            <li class="image-additional"><a class="thumbnail" href="<?php echo $image['popup']; ?>" title="<?php echo $heading_title; ?>"> <img src="<?php echo $image['thumb']; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+      
+              <div class="col-md-3" style="border: hidden;">  
+                <a class="thumbnail"  href="<?php echo $image['popup']; ?>" title="<?php echo $heading_title; ?>"> 
+                  <img id="pThumbs" src="<?php echo $image['thumb']; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" />
+                </a>
+              </div>
+
             <?php } ?>
+             </div>
+        </div>
             <?php } ?>
+         
           </ul>
           <?php } ?>
           <ul class="nav nav-tabs">
@@ -120,7 +131,7 @@
           </div>
         </div>
         <?php if ($column_left && $column_right) { ?>
-        <?php $class = 'col-sm-6'; ?>
+        <?php $class = 'col-sm-4'; ?>
         <?php } elseif ($column_left || $column_right) { ?>
         <?php $class = 'col-sm-6'; ?>
         <?php } else { ?>
