@@ -65,7 +65,7 @@ If you are not sure about your issue, it is always best to ask the community on 
 
 
 
-##### Week 7 Beta Phase (Jan)
+##### Week 7 Beta Phase (Jan15th - 22nd)
 >Checkout Testing completed all prodcuts are funciontioning correctly when shopping.
 >Features Testing completed for wish list and product comparison flow to checkout.
 >SEO, added keywords to all products to begin pre-seo build for product launch. 
