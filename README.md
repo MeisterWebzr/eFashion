@@ -74,7 +74,8 @@ If you are not sure about your issue, it is always best to ask the community on 
 
 ##### Week 8 In progress
 >Promote to Live Server -GOING LIVE!-
-* [Github Repo Live Server](https://github.com/MeisterWebzr/eFashion/tree/gh-pages)
+* [LIVE WEBSITE](http://meisterwebzr.com/efashion/)
+* [VIDEO ANNOUNCEMENT](https://www.youtube.com/watch?v=yGmqvyzXGWY)
 
 
 
